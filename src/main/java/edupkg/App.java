@@ -1,10 +1,6 @@
-package edupkg;
-
-/**
- * Hello world!
- */
-public class App {
+public class Project {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        // Print the desired message to the console
+        System.out.println("THE PROJECT DONE BY THE VEER");
     }
 }
